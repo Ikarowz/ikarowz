@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ikaro Camargo!</h2>
 <h3 align="left">🎓 Estudante de Ciência da Computação</h3>
-<h3 align="left">💻 Focado em Desenvolvimento de Software com **Java**</h3>
+<h3 align="left">💻 Focado em Desenvolvimento de Software com Java</h3>
 
 ###
 
