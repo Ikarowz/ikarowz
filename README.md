@@ -15,10 +15,6 @@
 
 ###
 
-<img align="right" height="143" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlvNGxqc3hvczEwbDhkd3ViczRmcmN3aDNzeHNjZjQ5d29vMHV1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
@@ -43,15 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikarowz/Ikarowz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikarowz/Ikarowz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ikarowz/Ikarowz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
